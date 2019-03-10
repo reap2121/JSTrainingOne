@@ -1,0 +1,22 @@
+{
+  "name": "jstrainingone",
+  "version": "1.0.0",
+  "description": "JSTrainingOne",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reap2121/JSTrainingOne.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reap2121/JSTrainingOne/issues"
+  },
+  "homepage": "https://github.com/reap2121/JSTrainingOne#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
